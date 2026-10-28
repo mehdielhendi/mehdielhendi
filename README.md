@@ -15,11 +15,15 @@ Un modèle de gradient boosting prévoit la demande horaire de 2023 avec 3,3 % d
 Il extrait les données de bulletins officiels en PDF, les structure en JSON et répond en langage naturel avec la source de chaque information.
 *Python · FastAPI · pdfplumber · pytest*
 
+**[SmartAgent-IoT](https://github.com/mehdielhendi/smartagent-iot)** : plateforme domotique multi-agents réalisée en équipe (cours de systèmes répartis, UdeS).
+Capteurs simulés sur MQTT, un agent Java RMI par pièce, un coordinateur qui équilibre les températures et openHAB pour la supervision ; le système tolère la panne d'un capteur ou d'un agent.
+*Java 21 · MQTT · Java RMI · openHAB · JUnit (19 tests)*
+
 ### Compétences
 
-- **Langages** : Python, SQL
-- **Données et IA** : pandas, DuckDB, scikit-learn, extraction et modélisation de données, séries temporelles, apprentissage automatique, deep learning, vision par ordinateur, traitement du langage naturel
-- **Visualisation et applications** : Streamlit, Altair, FastAPI, API REST, tests automatisés (pytest)
+- **Langages** : Python, SQL, Java
+- **Données et IA** : pandas, DuckDB, scikit-learn, apprentissage automatique (gradient boosting, régression), séries temporelles, extraction et structuration de données
+- **Applications et systèmes** : Streamlit, Altair, FastAPI, API REST, MQTT, Java RMI, tests automatisés (pytest, JUnit)
 - **Outils** : Git, Linux, Windows, Jupyter, Arduino, Node-RED, Microsoft Office
 
 ### Me joindre
